@@ -2,19 +2,9 @@
  <p align='center'><img src='https://github.com/wassimoo/wassimoo/blob/ninja-update/.github/banner.jpeg?raw=true' alt='Ninja Developer' width='100%'/></p>
 </p>
 
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wassimoo" alt="wassimoo" />
-    <a href="https://github.com/wassimoo/"><img src="https://img.shields.io/github/followers/wassimoo?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
-  <a href="https://github.com/wassimoo/"><img src="https://img.shields.io/github/last-commit/wassimoo/wassimoo?style=flat-square?color=red&label=Last%20Updated%20"/></a>
-</p>
-
----
-
 <h3> Hi there <img src="https://github.com/wassimoo/wassimoo/blob/ninja-update/.github/hi.gif?raw=true" width="30px"> </h3>
 
-I'm a Software Engineer from <b>Tunisia</b> 🇹🇳 &nbsp; currently living and working in <b>Tallinn, Estonia</b> 🇪🇪 &nbsp; - The Silicon Valley of Europe.
+I'm a Software Engineer from <b>Tunisia</b>🇹🇳 currently living and working in <b>Tallinn, Estonia</b>🇪🇪 - The Silicon Valley of Europe.
 
 I'm a CS graduate from <a href="http://www.utm.rnu.tn/utm/fr/">Université de Tunis El Manar</a> (2019).
 
@@ -38,3 +28,13 @@ I'm a CS graduate from <a href="http://www.utm.rnu.tn/utm/fr/">Université de Tu
 <img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wassimoo&layout=compact&hide=HTML&langs_count=10&theme=tokyonight"/>
 </p>
 <!-- </details> -->
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=wassimoo" alt="wassimoo" />
+    <a href="https://github.com/wassimoo/"><img src="https://img.shields.io/github/followers/wassimoo?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/wassimoo/"><img src="https://img.shields.io/github/last-commit/wassimoo/wassimoo?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+</p>
+
+---
