@@ -4,9 +4,9 @@
 
 <h3> Hi there <img src="https://github.com/wassimoo/wassimoo/blob/ninja-update/.github/hi.gif?raw=true" width="30px"> </h3>
 
-I'm a Software Engineer from <b>Tunisia</b>🇹🇳 currently living and working in <b>Tallinn, Estonia</b>🇪🇪 - The Silicon Valley of Europe.
+I'm a Software Engineer from <b>Tunisia</b> 🇹🇳 and a CS graduate from <a href="http://www.utm.rnu.tn/utm/fr/">Université de Tunis El Manar</a> (2019).
 
-I'm a CS graduate from <a href="http://www.utm.rnu.tn/utm/fr/">Université de Tunis El Manar</a> (2019).
+Currently based in <b>Tallinn, Estonia</b> 🇪🇪 - The Silicon Valley of Europe.
 
 <h3> 🥷🏼  Languages I use</h3>
 
