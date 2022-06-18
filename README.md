@@ -2,7 +2,7 @@
  <p align='center'><img src='https://github.com/wassimoo/wassimoo/blob/master/.github/banner.jpeg?raw=true' alt='Ninja Developer' width='100%'/></p>
 </p>
 
-<h3> Hi there <img src="https://github.com/wassimoo/wassimoo/blob/master/.github/hi.gif?raw=true" width="30px"> </h3>
+<h3> 👋 Hi there!</h3>
 
 I'm a Software Engineer from <b>Tunisia</b> 🇹🇳 and a CS graduate from <a href="http://www.utm.rnu.tn/utm/fr/">Université de Tunis El Manar</a> (2019).
 
