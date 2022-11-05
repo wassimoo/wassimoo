@@ -6,7 +6,7 @@
 
 I'm a Software Engineer from <b>Tunisia</b> 🇹🇳 and a CS graduate from <a href="http://www.utm.rnu.tn/utm/fr/">Université de Tunis El Manar</a> (2019).
 
-Currently based in <b>Tallinn, Estonia</b> 🇪🇪 - The Silicon Valley of Europe.
+Currently based in <b>Tampere, Finland</b> 🇫🇮.
 
 <h3> 🥷🏼  Languages I use</h3>
 
