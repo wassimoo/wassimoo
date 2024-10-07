@@ -8,7 +8,7 @@ I'm a Software Engineer from <b>Tunisia</b> 🇹🇳 and a CS graduate from <a h
 
 Currently based in <b>Berlin, Germany</b> 🇩🇪.
 
-Oh! Look what I made, another <a target="_blank" href="https://wassim.nuevera.com">technical blog</a> 💩 
+Oh! Look what I made, yet, another <a target="_blank" href="https://wassim.bougarfa.com">technical blog</a> 💩 
 
 <h3> 🥷🏼  Languages I use</h3>
 
